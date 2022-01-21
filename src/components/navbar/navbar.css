@@ -1,0 +1,12 @@
+.navbar a {
+  display: block;
+  text-decoration: none;
+  padding: 5px;
+  color: aqua;
+}
+
+.navbar a:hover {
+  color: white;
+  background-color: rgb(204, 136, 34);
+  border-radius: 10px;
+}
